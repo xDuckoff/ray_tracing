@@ -12,7 +12,7 @@ make −j 4
 * scene_number - номер сцены от 1 до 2. 
   
 Пример:
-./rt -out 311_ivan_yellow.bmp -scene 2 -threads 1
+`./rt -out output.bmp -scene 1 -threads 1`
 
 ## Сцены:
 
