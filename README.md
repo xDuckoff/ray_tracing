@@ -15,7 +15,8 @@ make −j 4
 `./rt -out output.bmp -scene 1 -threads 1`
 
 ## Сцены:
-
+![Scene 1](/scene1.bmp)
+![Scene 2](/scene2.bmp)
 
 ## Выполненные пункты:
 
