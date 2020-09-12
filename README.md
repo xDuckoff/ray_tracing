@@ -1,9 +1,9 @@
 ## Порядок компиляции:
 <code>
-mkdir b uil d
-cd b uil d
-cmake −DCMAKE_BUILD_TYPE=R el ea s e . .
-make −j 4
+mkdir b uil d <br>
+cd b uil d <br>
+cmake −DCMAKE_BUILD_TYPE=Release .. <br>
+make −j 4 <br>
 </code>
 
 ## Сцены
