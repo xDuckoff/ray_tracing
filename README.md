@@ -15,8 +15,8 @@ make −j 4
 `./rt -out output.bmp -scene 1 -threads 1`
 
 ## Сцены:
-![Scene 1](/scene1.bmp){ width=50% }
-![Scene 2](/scene2.bmp)
+![Scene1 -fullwidth](/scene1.bmp)
+![Scene2 -fullwidth](/scene2.bmp)
 
 ## Выполненные пункты:
 
