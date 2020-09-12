@@ -6,7 +6,15 @@ cmake −DCMAKE_BUILD_TYPE=Release ..
 make −j 4    
 ```
 
-## Сцены
+## Запуск:
+`./rt −out <output_path> −scene <scene_number> −threads <threads>`
+* output_path - путь к выходному изображению (относительный).
+* scene_number - номер сцены от 1 до 2. 
+  
+Пример:
+./rt -out 311_ivan_yellow.bmp -scene 2 -threads 1
+
+## Сцены:
 
 
 ## Выполненные пункты:
