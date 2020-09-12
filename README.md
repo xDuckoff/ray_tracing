@@ -1,7 +1,7 @@
 ## Порядок компиляции:
 ```
-mkdir buil d    
-cd buil d    
+mkdir build    
+cd build    
 cmake −DCMAKE_BUILD_TYPE=Release ..     
 make −j 4    
 ```
